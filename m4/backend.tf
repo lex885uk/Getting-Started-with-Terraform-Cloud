@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "ORG_NAME"
+    organization = "AshleyDoggo"
 
     workspaces {
-      name = "diamonddogs-app-useast1-dev"
+      name = "diamonddogs-app-uksouth-dev"
     }
   }
 }
